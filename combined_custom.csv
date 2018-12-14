@@ -1,0 +1,366 @@
+customerid,txnid,txndate,lineitemsku,prodtype,supplier,prodsubtype,quantity,price,returnamt,offer_id,campaign,varietal,min_qty,discount,origin,past_peak
+6122003,10001,00:00.0,111,Apple,Jones Farm,Red Delicious,6,0.69,,1,January,Malbec,72,56,France,FALSE
+6122003,10001,00:00.0,211,Orange,Smith Farm,Navel,2,0.89,,2,January,Pinot Noir,72,17,France,FALSE
+6122003,10001,00:00.0,112,Apple,Smith Farm,McIntosh apple,4,0.89,,3,February,Espumante,144,32,Oregon,TRUE
+6122003,10001,00:00.0,312,Banana,Lawson Farm,Cavendish,8,1.27,,4,February,Champagne,72,48,France,TRUE
+6122010,10002,00:00.0,111,Apple,Jones Farm,Red Delicious,9,0.69,,5,February,Cabernet Sauvignon,144,44,New Zealand,TRUE
+6122010,10002,00:00.0,211,Orange,Smith Farm,Navel,8,0.89,,6,March,Prosecco,144,86,Chile,FALSE
+6122010,10002,00:00.0,311,Banana,Wilson Farm,Burro,3,1.07,,7,March,Prosecco,6,40,Australia,TRUE
+6122010,10002,00:00.0,112,Apple,Smith Farm,McIntosh apple,7,0.89,,8,March,Espumante,6,45,South Africa,FALSE
+6122010,10002,00:00.0,212,Orange,Jones Farm,Valencia,7,0.78,,9,April,Chardonnay,144,57,Chile,FALSE
+6122010,10002,00:00.0,312,Banana,Lawson Farm,Cavendish,6,1.27,,10,April,Prosecco,72,52,California,FALSE
+6122020,10003,00:00.0,112,Apple,Smith Farm,McIntosh apple,9,0.89,,11,May,Champagne,72,85,France,FALSE
+6122020,10003,00:00.0,312,Banana,Lawson Farm,Cavendish,4,1.27,,12,May,Prosecco,72,83,Australia,FALSE
+6122020,10003,00:00.0,111,Apple,Jones Farm,Red Delicious,3,0.69,,13,May,Merlot,6,43,Chile,FALSE
+6122026,10004,00:00.0,211,Orange,Smith Farm,Navel,10,0.89,,14,June,Merlot,72,64,Chile,FALSE
+6122026,10004,00:00.0,212,Orange,Jones Farm,Valencia,2,0.78,,15,June,Cabernet Sauvignon,144,19,Italy,FALSE
+6122026,10004,00:00.0,312,Banana,Lawson Farm,Cavendish,11,1.27,,16,June,Merlot,72,88,California,FALSE
+6122026,10004,00:00.0,111,Apple,Jones Farm,Red Delicious,2,0.69,,17,July,Pinot Noir,12,47,Germany,FALSE
+6122045,10005,00:00.0,212,Orange,Jones Farm,Valencia,12,0.78,,18,July,Espumante,6,50,Oregon,FALSE
+6122045,10005,00:00.0,312,Banana,Lawson Farm,Cavendish,3,1.27,,19,July,Champagne,12,66,Germany,FALSE
+6122045,10005,00:00.0,111,Apple,Jones Farm,Red Delicious,14,0.69,,20,August,Cabernet Sauvignon,72,82,Italy,FALSE
+6122045,10005,00:00.0,211,Orange,Smith Farm,Navel,4,0.89,,21,August,Champagne,12,50,California,FALSE
+6122045,10005,00:00.0,311,Banana,Wilson Farm,Burro,9,1.07,,22,August,Champagne,72,63,France,FALSE
+6122045,10005,00:00.0,112,Apple,Smith Farm,McIntosh apple,5,0.89,,23,September,Chardonnay,144,39,South Africa,FALSE
+6122057,10006,00:00.0,112,Apple,Smith Farm,McIntosh apple,8,0.89,,24,September,Pinot Noir,6,34,Italy,FALSE
+6122057,10006,00:00.0,212,Orange,Jones Farm,Valencia,6,0.78,,25,October,Cabernet Sauvignon,72,59,Oregon,TRUE
+6122057,10006,00:00.0,312,Banana,Lawson Farm,Cavendish,15,1.27,,26,October,Pinot Noir,144,83,Australia,FALSE
+6122068,10007,00:00.0,211,Orange,Smith Farm,Navel,11,0.89,,27,October,Champagne,72,88,New Zealand,FALSE
+6122068,10007,00:00.0,311,Banana,Wilson Farm,Burro,8,1.07,,28,November,Cabernet Sauvignon,12,56,France,TRUE
+6122068,10007,00:00.0,112,Apple,Smith Farm,McIntosh apple,2,0.89,,29,November,Pinot Grigio,6,87,France,FALSE
+6122068,10007,00:00.0,312,Banana,Lawson Farm,Cavendish,9,1.27,,30,December,Malbec,6,54,France,FALSE
+6122073,10008,00:00.0,211,Orange,Smith Farm,Navel,3,0.89,,31,December,Champagne,72,89,France,FALSE
+6122073,10008,00:00.0,212,Orange,Jones Farm,Valencia,4,0.78,,32,December,Cabernet Sauvignon,72,45,Germany,TRUE
+6122080,10009,00:00.0,111,Apple,Jones Farm,Red Delicious,7,0.69,,2,January,Pinot Noir,72,17,France,FALSE
+6122080,10009,00:00.0,112,Apple,Smith Farm,McIntosh apple,16,0.89,,3,February,Espumante,144,32,Oregon,TRUE
+6122087,10010,00:00.0,312,Banana,Lawson Farm,Cavendish,2,1.27,,4,February,Champagne,72,48,France,TRUE
+6122087,10010,00:00.0,311,Banana,Wilson Farm,Burro,8,1.07,,5,February,Cabernet Sauvignon,144,44,New Zealand,TRUE
+6122098,10011,00:00.0,111,Apple,Jones Farm,Red Delicious,4,0.69,,6,March,Prosecco,144,86,Chile,FALSE
+6122098,10011,00:00.0,211,Orange,Smith Farm,Navel,7,0.89,,7,March,Prosecco,6,40,Australia,TRUE
+6122098,10011,00:00.0,311,Banana,Wilson Farm,Burro,3,1.07,,8,March,Espumante,6,45,South Africa,FALSE
+6122101,10012,00:00.0,112,Apple,Smith Farm,McIntosh apple,4,0.89,,9,April,Chardonnay,144,57,Chile,FALSE
+6122101,10012,00:00.0,312,Banana,Lawson Farm,Cavendish,4,1.27,,18,July,Espumante,6,50,Oregon,FALSE
+6122101,10012,00:00.0,111,Apple,Jones Farm,Red Delicious,2,0.69,,19,July,Champagne,12,66,Germany,FALSE
+6122108,10013,00:00.0,212,Orange,Jones Farm,Valencia,2,0.78,,20,August,Cabernet Sauvignon,72,82,Italy,FALSE
+6122108,10013,00:00.0,312,Banana,Lawson Farm,Cavendish,8,1.27,,21,August,Champagne,12,50,California,FALSE
+6122117,10014,00:00.0,112,Apple,Smith Farm,McIntosh apple,3,0.89,,22,August,Champagne,72,63,France,FALSE
+6122126,10015,00:00.0,312,Banana,Lawson Farm,Cavendish,8,1.27,,23,September,Chardonnay,144,39,South Africa,FALSE
+6122087,10016,00:00.0,311,Banana,Wilson Farm,Burro,3,1.07,,24,September,Pinot Noir,6,34,Italy,FALSE
+6122134,10017,00:00.0,112,Apple,Smith Farm,McIntosh apple,4,-0.89,-3.56,25,October,Cabernet Sauvignon,72,59,Oregon,TRUE
+6122134,10017,00:00.0,212,Orange,Jones Farm,Valencia,2,-0.78,-1.56,26,October,Pinot Noir,144,83,Australia,FALSE
+6122155,10018,00:00.0,211,Orange,Smith Farm,Navel,1,-0.89,-0.89,27,October,Champagne,72,88,New Zealand,FALSE
+6122155,10018,00:00.0,212,Orange,Jones Farm,Valencia,2,-0.78,-1.56,28,November,Cabernet Sauvignon,12,56,France,TRUE
+6122155,10018,00:00.0,312,Banana,Lawson Farm,Cavendish,4,-1.27,-5.08,29,November,Pinot Grigio,6,87,France,FALSE
+6122155,10018,00:00.0,311,Banana,Wilson Farm,Burro,8,-1.07,-8.56,30,December,Malbec,6,54,France,FALSE
+6122165,10019,00:00.0,211,Orange,Smith Farm,Navel,3,-0.89,-2.67,4,February,Champagne,72,48,France,TRUE
+6122165,10019,00:00.0,311,Banana,Wilson Farm,Burro,2,-1.07,-2.14,5,February,Cabernet Sauvignon,144,44,New Zealand,TRUE
+6122165,10019,00:00.0,112,Apple,Smith Farm,McIntosh apple,7,-0.89,-6.23,6,March,Prosecco,144,86,Chile,FALSE
+6122170,10020,00:00.0,312,Banana,Lawson Farm,Cavendish,1,-1.27,-1.27,7,March,Prosecco,6,40,Australia,TRUE
+6122144,10021,00:00.0,312,Banana,Lawson Farm,Cavendish,11,-1.27,-13.97,8,March,Espumante,6,45,South Africa,FALSE
+6122144,10021,00:00.0,111,Apple,Jones Farm,Red Delicious,2,-0.69,-1.38,9,April,Chardonnay,144,57,Chile,FALSE
+6122144,10022,00:00.0,112,Apple,Smith Farm,McIntosh apple,2,-0.89,-1.78,18,July,Espumante,6,50,Oregon,FALSE
+6122193,10023,00:00.0,311,Banana,Wilson Farm,Burro,3,-1.07,-3.21,19,July,Champagne,12,66,Germany,FALSE
+6122193,10023,00:00.0,112,Apple,Smith Farm,McIntosh apple,4,-0.89,-3.56,20,August,Cabernet Sauvignon,72,82,Italy,FALSE
+6122193,10023,00:00.0,312,Banana,Lawson Farm,Cavendish,4,-1.27,-5.08,21,August,Champagne,12,50,California,FALSE
+6122211,10024,00:00.0,311,Banana,Wilson Farm,Burro,1,-1.07,-1.07,22,August,Champagne,72,63,France,FALSE
+6122211,10024,00:00.0,112,Apple,Smith Farm,McIntosh apple,1,-0.89,-0.89,23,September,Chardonnay,144,39,South Africa,FALSE
+6122165,10019,00:00.0,112,Apple,Smith Farm,McIntosh apple,7,-0.89,-6.23,24,September,Pinot Noir,6,34,Italy,FALSE
+6122170,10020,00:00.0,312,Banana,Lawson Farm,Cavendish,1,-1.27,-1.27,25,October,Cabernet Sauvignon,72,59,Oregon,TRUE
+6122144,10021,00:00.0,312,Banana,Lawson Farm,Cavendish,11,-1.27,-13.97,26,October,Pinot Noir,144,83,Australia,FALSE
+6122144,10021,00:00.0,111,Apple,Jones Farm,Red Delicious,2,-0.69,-1.38,24,September,Pinot Noir,6,34,Italy,FALSE
+6122144,10022,00:00.0,112,Apple,Smith Farm,McIntosh apple,2,-0.89,-1.78,25,October,Cabernet Sauvignon,72,59,Oregon,TRUE
+6122193,10023,00:00.0,311,Banana,Wilson Farm,Burro,3,-1.07,-3.21,26,October,Pinot Noir,144,83,Australia,FALSE
+6122193,10023,00:00.0,112,Apple,Smith Farm,McIntosh apple,4,-0.89,-3.56,24,September,Pinot Noir,6,34,Italy,FALSE
+6122193,10023,00:00.0,312,Banana,Lawson Farm,Cavendish,4,-1.27,-5.08,25,October,Cabernet Sauvignon,72,59,Oregon,TRUE
+6122211,10024,00:00.0,311,Banana,Wilson Farm,Burro,1,-1.07,-1.07,26,October,Pinot Noir,144,83,Australia,FALSE
+6122211,10024,00:00.0,112,Apple,Smith Farm,McIntosh apple,1,-0.89,-0.89,25,October,Cabernet Sauvignon,72,59,Oregon,TRUE
+6122073,10008,00:00.0,212,Orange,Jones Farm,Valencia,4,0.78,,26,October,Pinot Noir,144,83,Australia,FALSE
+6122080,10009,00:00.0,111,Apple,Jones Farm,Red Delicious,7,0.69,,27,October,Champagne,72,88,New Zealand,FALSE
+6122080,10009,00:00.0,112,Apple,Smith Farm,McIntosh apple,16,0.89,,28,November,Cabernet Sauvignon,12,56,France,TRUE
+6122087,10010,00:00.0,312,Banana,Lawson Farm,Cavendish,2,1.27,,29,November,Pinot Grigio,6,87,France,FALSE
+6122087,10010,00:00.0,311,Banana,Wilson Farm,Burro,8,1.07,,30,December,Malbec,6,54,France,FALSE
+6122098,10011,00:00.0,111,Apple,Jones Farm,Red Delicious,4,0.69,,31,December,Champagne,72,89,France,FALSE
+6122098,10011,00:00.0,211,Orange,Smith Farm,Navel,7,0.89,,32,December,Cabernet Sauvignon,72,45,Germany,TRUE
+6122098,10011,00:00.0,311,Banana,Wilson Farm,Burro,3,1.07,,2,January,Pinot Noir,72,17,France,FALSE
+6122101,10012,00:00.0,112,Apple,Smith Farm,McIntosh apple,4,0.89,,3,February,Espumante,144,32,Oregon,TRUE
+6122101,10012,00:00.0,312,Banana,Lawson Farm,Cavendish,4,1.27,,4,February,Champagne,72,48,France,TRUE
+6122101,10012,00:00.0,111,Apple,Jones Farm,Red Delicious,2,0.69,,5,February,Cabernet Sauvignon,144,44,New Zealand,TRUE
+6122108,10013,00:00.0,212,Orange,Jones Farm,Valencia,2,0.78,,6,March,Prosecco,144,86,Chile,FALSE
+6122108,10013,00:00.0,312,Banana,Lawson Farm,Cavendish,8,1.27,,7,March,Prosecco,6,40,Australia,TRUE
+6122117,10014,00:00.0,112,Apple,Smith Farm,McIntosh apple,3,0.89,,8,March,Espumante,6,45,South Africa,FALSE
+6122126,10015,00:00.0,312,Banana,Lawson Farm,Cavendish,8,1.27,,9,April,Chardonnay,144,57,Chile,FALSE
+6122087,10016,00:00.0,311,Banana,Wilson Farm,Burro,3,1.07,,18,July,Espumante,6,50,Oregon,FALSE
+6122134,10017,00:00.0,112,Apple,Smith Farm,McIntosh apple,4,-0.89,-3.56,19,July,Champagne,12,66,Germany,FALSE
+6122134,10017,00:00.0,212,Orange,Jones Farm,Valencia,2,-0.78,-1.56,20,August,Cabernet Sauvignon,72,82,Italy,FALSE
+6122155,10018,00:00.0,211,Orange,Smith Farm,Navel,1,-0.89,-0.89,21,August,Champagne,12,50,California,FALSE
+6122155,10018,00:00.0,212,Orange,Jones Farm,Valencia,2,-0.78,-1.56,22,August,Champagne,72,63,France,FALSE
+6122155,10018,00:00.0,312,Banana,Lawson Farm,Cavendish,4,-1.27,-5.08,23,September,Chardonnay,144,39,South Africa,FALSE
+6122003,10001,00:00.0,111,Apple,Jones Farm,Red Delicious,6,0.69,,24,September,Pinot Noir,6,34,Italy,FALSE
+6122003,10001,00:00.0,211,Orange,Smith Farm,Navel,2,0.89,,25,October,Cabernet Sauvignon,72,59,Oregon,TRUE
+6122003,10001,00:00.0,112,Apple,Smith Farm,McIntosh apple,4,0.89,,26,October,Pinot Noir,144,83,Australia,FALSE
+6122003,10001,00:00.0,312,Banana,Lawson Farm,Cavendish,8,1.27,,27,October,Champagne,72,88,New Zealand,FALSE
+6122010,10002,00:00.0,111,Apple,Jones Farm,Red Delicious,9,0.69,,28,November,Cabernet Sauvignon,12,56,France,TRUE
+6122010,10002,00:00.0,211,Orange,Smith Farm,Navel,8,0.89,,29,November,Pinot Grigio,6,87,France,FALSE
+6122010,10002,00:00.0,311,Banana,Wilson Farm,Burro,3,1.07,,30,December,Malbec,6,54,France,FALSE
+6122010,10002,00:00.0,112,Apple,Smith Farm,McIntosh apple,7,0.89,,4,February,Champagne,72,48,France,TRUE
+6122010,10002,00:00.0,212,Orange,Jones Farm,Valencia,7,0.78,,5,February,Cabernet Sauvignon,144,44,New Zealand,TRUE
+6122010,10002,00:00.0,312,Banana,Lawson Farm,Cavendish,6,1.27,,6,March,Prosecco,144,86,Chile,FALSE
+6122020,10003,00:00.0,112,Apple,Smith Farm,McIntosh apple,9,0.89,,18,July,Espumante,6,50,Oregon,FALSE
+6122020,10003,00:00.0,312,Banana,Lawson Farm,Cavendish,4,1.27,,19,July,Champagne,12,66,Germany,FALSE
+6122020,10003,00:00.0,111,Apple,Jones Farm,Red Delicious,3,0.69,,20,August,Cabernet Sauvignon,72,82,Italy,FALSE
+6122026,10004,00:00.0,211,Orange,Smith Farm,Navel,10,0.89,,21,August,Champagne,12,50,California,FALSE
+6122026,10004,00:00.0,212,Orange,Jones Farm,Valencia,2,0.78,,22,August,Champagne,72,63,France,FALSE
+6122026,10004,00:00.0,312,Banana,Lawson Farm,Cavendish,11,1.27,,23,September,Chardonnay,144,39,South Africa,FALSE
+6122026,10004,00:00.0,111,Apple,Jones Farm,Red Delicious,2,0.69,,24,September,Pinot Noir,6,34,Italy,FALSE
+6122045,10005,00:00.0,212,Orange,Jones Farm,Valencia,12,0.78,,25,October,Cabernet Sauvignon,72,59,Oregon,TRUE
+6122045,10005,00:00.0,312,Banana,Lawson Farm,Cavendish,3,1.27,,26,October,Pinot Noir,144,83,Australia,FALSE
+6122045,10005,00:00.0,111,Apple,Jones Farm,Red Delicious,14,0.69,,27,October,Champagne,72,88,New Zealand,FALSE
+6122045,10005,00:00.0,211,Orange,Smith Farm,Navel,4,0.89,,28,November,Cabernet Sauvignon,12,56,France,TRUE
+6122045,10005,00:00.0,311,Banana,Wilson Farm,Burro,9,1.07,,29,November,Pinot Grigio,6,87,France,FALSE
+6122045,10005,00:00.0,112,Apple,Smith Farm,McIntosh apple,5,0.89,,23,September,Chardonnay,144,39,South Africa,FALSE
+6122057,10006,00:00.0,112,Apple,Smith Farm,McIntosh apple,8,0.89,,24,September,Pinot Noir,6,34,Italy,FALSE
+6122057,10006,00:00.0,212,Orange,Jones Farm,Valencia,6,0.78,,25,October,Cabernet Sauvignon,72,59,Oregon,TRUE
+6122057,10006,00:00.0,312,Banana,Lawson Farm,Cavendish,15,1.27,,26,October,Pinot Noir,144,83,Australia,FALSE
+6122068,10007,00:00.0,211,Orange,Smith Farm,Navel,11,0.89,,27,October,Champagne,72,88,New Zealand,FALSE
+6122098,10011,00:00.0,311,Banana,Wilson Farm,Burro,3,1.07,,28,November,Cabernet Sauvignon,12,56,France,TRUE
+6122101,10012,00:00.0,112,Apple,Smith Farm,McIntosh apple,4,0.89,,29,November,Pinot Grigio,6,87,France,FALSE
+6122101,10012,00:00.0,312,Banana,Lawson Farm,Cavendish,4,1.27,,2,January,Pinot Noir,72,17,France,FALSE
+6122101,10012,00:00.0,111,Apple,Jones Farm,Red Delicious,2,0.69,,3,February,Espumante,144,32,Oregon,TRUE
+6122108,10013,00:00.0,212,Orange,Jones Farm,Valencia,2,0.78,,4,February,Champagne,72,48,France,TRUE
+6122108,10013,00:00.0,312,Banana,Lawson Farm,Cavendish,8,1.27,,5,February,Cabernet Sauvignon,144,44,New Zealand,TRUE
+6122117,10014,00:00.0,112,Apple,Smith Farm,McIntosh apple,3,0.89,,6,March,Prosecco,144,86,Chile,FALSE
+6122126,10015,00:00.0,312,Banana,Lawson Farm,Cavendish,8,1.27,,7,March,Prosecco,6,40,Australia,TRUE
+6122087,10016,00:00.0,311,Banana,Wilson Farm,Burro,3,1.07,,8,March,Espumante,6,45,South Africa,FALSE
+6122134,10017,00:00.0,112,Apple,Smith Farm,McIntosh apple,4,-0.89,-3.56,9,April,Chardonnay,144,57,Chile,FALSE
+6122134,10017,00:00.0,212,Orange,Jones Farm,Valencia,2,-0.78,-1.56,10,April,Prosecco,72,52,California,FALSE
+6122155,10018,00:00.0,211,Orange,Smith Farm,Navel,1,-0.89,-0.89,11,May,Champagne,72,85,France,FALSE
+6122155,10018,00:00.0,212,Orange,Jones Farm,Valencia,2,-0.78,-1.56,12,May,Prosecco,72,83,Australia,FALSE
+6122155,10018,00:00.0,312,Banana,Lawson Farm,Cavendish,4,-1.27,-5.08,13,May,Merlot,6,43,Chile,FALSE
+6122003,10001,00:00.0,111,Apple,Jones Farm,Red Delicious,6,0.69,,14,June,Merlot,72,64,Chile,FALSE
+6122003,10001,00:00.0,211,Orange,Smith Farm,Navel,2,0.89,,15,June,Cabernet Sauvignon,144,19,Italy,FALSE
+6122003,10001,00:00.0,112,Apple,Smith Farm,McIntosh apple,4,0.89,,16,June,Merlot,72,88,California,FALSE
+6122003,10001,00:00.0,312,Banana,Lawson Farm,Cavendish,8,1.27,,17,July,Pinot Noir,12,47,Germany,FALSE
+6122010,10002,00:00.0,111,Apple,Jones Farm,Red Delicious,9,0.69,,18,July,Espumante,6,50,Oregon,FALSE
+6122010,10002,00:00.0,211,Orange,Smith Farm,Navel,8,0.89,,19,July,Champagne,12,66,Germany,FALSE
+6122010,10002,00:00.0,311,Banana,Wilson Farm,Burro,3,1.07,,20,August,Cabernet Sauvignon,72,82,Italy,FALSE
+6122010,10002,00:00.0,112,Apple,Smith Farm,McIntosh apple,7,0.89,,21,August,Champagne,12,50,California,FALSE
+6122010,10002,00:00.0,212,Orange,Jones Farm,Valencia,7,0.78,,22,August,Champagne,72,63,France,FALSE
+6122010,10002,00:00.0,312,Banana,Lawson Farm,Cavendish,6,1.27,,23,September,Chardonnay,144,39,South Africa,FALSE
+6122020,10003,00:00.0,112,Apple,Smith Farm,McIntosh apple,9,0.89,,24,September,Pinot Noir,6,34,Italy,FALSE
+6122020,10003,00:00.0,312,Banana,Lawson Farm,Cavendish,4,1.27,,25,October,Cabernet Sauvignon,72,59,Oregon,TRUE
+6122020,10003,00:00.0,111,Apple,Jones Farm,Red Delicious,3,0.69,,26,October,Pinot Noir,144,83,Australia,FALSE
+6122026,10004,00:00.0,211,Orange,Smith Farm,Navel,10,0.89,,27,October,Champagne,72,88,New Zealand,FALSE
+6122026,10004,00:00.0,212,Orange,Jones Farm,Valencia,2,0.78,,28,November,Cabernet Sauvignon,12,56,France,TRUE
+6122026,10004,00:00.0,312,Banana,Lawson Farm,Cavendish,11,1.27,,29,November,Pinot Grigio,6,87,France,FALSE
+6122026,10004,00:00.0,111,Apple,Jones Farm,Red Delicious,2,0.69,,30,December,Malbec,6,54,France,FALSE
+6122045,10005,00:00.0,212,Orange,Jones Farm,Valencia,12,0.78,,31,December,Champagne,72,89,France,FALSE
+6122045,10005,00:00.0,312,Banana,Lawson Farm,Cavendish,3,1.27,,32,December,Cabernet Sauvignon,72,45,Germany,TRUE
+6122045,10005,00:00.0,111,Apple,Jones Farm,Red Delicious,14,0.69,,2,January,Pinot Noir,72,17,France,FALSE
+6122020,10003,00:00.0,111,Apple,Jones Farm,Red Delicious,3,0.69,,3,February,Espumante,144,32,Oregon,TRUE
+6122026,10004,00:00.0,211,Orange,Smith Farm,Navel,10,0.89,,4,February,Champagne,72,48,France,TRUE
+6122026,10004,00:00.0,212,Orange,Jones Farm,Valencia,2,0.78,,5,February,Cabernet Sauvignon,144,44,New Zealand,TRUE
+6122026,10004,00:00.0,312,Banana,Lawson Farm,Cavendish,11,1.27,,6,March,Prosecco,144,86,Chile,FALSE
+6122026,10004,00:00.0,111,Apple,Jones Farm,Red Delicious,2,0.69,,7,March,Prosecco,6,40,Australia,TRUE
+6122045,10005,00:00.0,212,Orange,Jones Farm,Valencia,12,0.78,,8,March,Espumante,6,45,South Africa,FALSE
+6122045,10005,00:00.0,312,Banana,Lawson Farm,Cavendish,3,1.27,,9,April,Chardonnay,144,57,Chile,FALSE
+6122045,10005,00:00.0,111,Apple,Jones Farm,Red Delicious,14,0.69,,18,July,Espumante,6,50,Oregon,FALSE
+6122045,10005,00:00.0,211,Orange,Smith Farm,Navel,4,0.89,,19,July,Champagne,12,66,Germany,FALSE
+6122045,10005,00:00.0,311,Banana,Wilson Farm,Burro,9,1.07,,20,August,Cabernet Sauvignon,72,82,Italy,FALSE
+6122045,10005,00:00.0,112,Apple,Smith Farm,McIntosh apple,5,0.89,,21,August,Champagne,12,50,California,FALSE
+6122057,10006,00:00.0,112,Apple,Smith Farm,McIntosh apple,8,0.89,,22,August,Champagne,72,63,France,FALSE
+6122057,10006,00:00.0,212,Orange,Jones Farm,Valencia,6,0.78,,23,September,Chardonnay,144,39,South Africa,FALSE
+6122057,10006,00:00.0,312,Banana,Lawson Farm,Cavendish,15,1.27,,24,September,Pinot Noir,6,34,Italy,FALSE
+6122068,10007,00:00.0,211,Orange,Smith Farm,Navel,11,0.89,,25,October,Cabernet Sauvignon,72,59,Oregon,TRUE
+6122068,10007,00:00.0,311,Banana,Wilson Farm,Burro,8,1.07,,26,October,Pinot Noir,144,83,Australia,FALSE
+6122068,10007,00:00.0,112,Apple,Smith Farm,McIntosh apple,2,0.89,,27,October,Champagne,72,88,New Zealand,FALSE
+6122068,10007,00:00.0,312,Banana,Lawson Farm,Cavendish,9,1.27,,28,November,Cabernet Sauvignon,12,56,France,TRUE
+6122073,10008,00:00.0,211,Orange,Smith Farm,Navel,3,0.89,,14,June,Merlot,72,64,Chile,FALSE
+6122073,10008,00:00.0,212,Orange,Jones Farm,Valencia,4,0.78,,15,June,Cabernet Sauvignon,144,19,Italy,FALSE
+6122080,10009,00:00.0,111,Apple,Jones Farm,Red Delicious,7,0.69,,16,June,Merlot,72,88,California,FALSE
+6122080,10009,00:00.0,112,Apple,Smith Farm,McIntosh apple,16,0.89,,17,July,Pinot Noir,12,47,Germany,FALSE
+6122087,10010,00:00.0,312,Banana,Lawson Farm,Cavendish,2,1.27,,18,July,Espumante,6,50,Oregon,FALSE
+6122087,10010,00:00.0,311,Banana,Wilson Farm,Burro,8,1.07,,19,July,Champagne,12,66,Germany,FALSE
+6122098,10011,00:00.0,111,Apple,Jones Farm,Red Delicious,4,0.69,,20,August,Cabernet Sauvignon,72,82,Italy,FALSE
+6122098,10011,00:00.0,211,Orange,Smith Farm,Navel,7,0.89,,21,August,Champagne,12,50,California,FALSE
+6122098,10011,00:00.0,311,Banana,Wilson Farm,Burro,3,1.07,,22,August,Champagne,72,63,France,FALSE
+6122101,10012,00:00.0,112,Apple,Smith Farm,McIntosh apple,4,0.89,,23,September,Chardonnay,144,39,South Africa,FALSE
+6122101,10012,00:00.0,312,Banana,Lawson Farm,Cavendish,4,1.27,,24,September,Pinot Noir,6,34,Italy,FALSE
+6122101,10012,00:00.0,111,Apple,Jones Farm,Red Delicious,2,0.69,,25,October,Cabernet Sauvignon,72,59,Oregon,TRUE
+6122108,10013,00:00.0,212,Orange,Jones Farm,Valencia,2,0.78,,26,October,Pinot Noir,144,83,Australia,FALSE
+6122108,10013,00:00.0,312,Banana,Lawson Farm,Cavendish,8,1.27,,27,October,Champagne,72,88,New Zealand,FALSE
+6122117,10014,00:00.0,112,Apple,Smith Farm,McIntosh apple,3,0.89,,28,November,Cabernet Sauvignon,12,56,France,TRUE
+6122126,10015,00:00.0,312,Banana,Lawson Farm,Cavendish,8,1.27,,29,November,Pinot Grigio,6,87,France,FALSE
+6122087,10016,00:00.0,311,Banana,Wilson Farm,Burro,3,1.07,,30,December,Malbec,6,54,France,FALSE
+6122134,10017,00:00.0,112,Apple,Smith Farm,McIntosh apple,4,-0.89,-3.56,31,December,Champagne,72,89,France,FALSE
+6122134,10017,00:00.0,212,Orange,Jones Farm,Valencia,2,-0.78,-1.56,32,December,Cabernet Sauvignon,72,45,Germany,TRUE
+6122155,10018,00:00.0,211,Orange,Smith Farm,Navel,1,-0.89,-0.89,2,January,Pinot Noir,72,17,France,FALSE
+6122003,10001,00:00.0,111,Apple,Jones Farm,Red Delicious,6,0.69,,3,February,Espumante,144,32,Oregon,TRUE
+6122003,10001,00:00.0,211,Orange,Smith Farm,Navel,2,0.89,,4,February,Champagne,72,48,France,TRUE
+6122003,10001,00:00.0,112,Apple,Smith Farm,McIntosh apple,4,0.89,,5,February,Cabernet Sauvignon,144,44,New Zealand,TRUE
+6122003,10001,00:00.0,312,Banana,Lawson Farm,Cavendish,8,1.27,,6,March,Prosecco,144,86,Chile,FALSE
+6122010,10002,00:00.0,111,Apple,Jones Farm,Red Delicious,9,0.69,,7,March,Prosecco,6,40,Australia,TRUE
+6122010,10002,00:00.0,211,Orange,Smith Farm,Navel,8,0.89,,24,September,Pinot Noir,6,34,Italy,FALSE
+6122010,10002,00:00.0,311,Banana,Wilson Farm,Burro,3,1.07,,25,October,Cabernet Sauvignon,72,59,Oregon,TRUE
+6122010,10002,00:00.0,112,Apple,Smith Farm,McIntosh apple,7,0.89,,26,October,Pinot Noir,144,83,Australia,FALSE
+6122010,10002,00:00.0,212,Orange,Jones Farm,Valencia,7,0.78,,27,October,Champagne,72,88,New Zealand,FALSE
+6122010,10002,00:00.0,312,Banana,Lawson Farm,Cavendish,6,1.27,,28,November,Cabernet Sauvignon,12,56,France,TRUE
+6122020,10003,00:00.0,112,Apple,Smith Farm,McIntosh apple,9,0.89,,20,August,Cabernet Sauvignon,72,82,Italy,FALSE
+6122020,10003,00:00.0,312,Banana,Lawson Farm,Cavendish,4,1.27,,21,August,Champagne,12,50,California,FALSE
+6122020,10003,00:00.0,111,Apple,Jones Farm,Red Delicious,3,0.69,,22,August,Champagne,72,63,France,FALSE
+6122026,10004,00:00.0,211,Orange,Smith Farm,Navel,10,0.89,,23,September,Chardonnay,144,39,South Africa,FALSE
+6122026,10004,00:00.0,212,Orange,Jones Farm,Valencia,2,0.78,,24,September,Pinot Noir,6,34,Italy,FALSE
+6122026,10004,00:00.0,312,Banana,Lawson Farm,Cavendish,11,1.27,,25,October,Cabernet Sauvignon,72,59,Oregon,TRUE
+6122026,10004,00:00.0,111,Apple,Jones Farm,Red Delicious,2,0.69,,26,October,Pinot Noir,144,83,Australia,FALSE
+6122045,10005,00:00.0,212,Orange,Jones Farm,Valencia,12,0.78,,27,October,Champagne,72,88,New Zealand,FALSE
+6122045,10005,00:00.0,312,Banana,Lawson Farm,Cavendish,3,1.27,,28,November,Cabernet Sauvignon,12,56,France,TRUE
+6122045,10005,00:00.0,111,Apple,Jones Farm,Red Delicious,14,0.69,,29,November,Pinot Grigio,6,87,France,FALSE
+6122045,10005,00:00.0,211,Orange,Smith Farm,Navel,4,0.89,,30,December,Malbec,6,54,France,FALSE
+6122045,10005,00:00.0,311,Banana,Wilson Farm,Burro,9,1.07,,31,December,Champagne,72,89,France,FALSE
+6122045,10005,00:00.0,112,Apple,Smith Farm,McIntosh apple,5,0.89,,32,December,Cabernet Sauvignon,72,45,Germany,TRUE
+6122057,10006,00:00.0,112,Apple,Smith Farm,McIntosh apple,8,0.89,,4,February,Champagne,72,48,France,TRUE
+6122057,10006,00:00.0,212,Orange,Jones Farm,Valencia,6,0.78,,5,February,Cabernet Sauvignon,144,44,New Zealand,TRUE
+6122057,10006,00:00.0,312,Banana,Lawson Farm,Cavendish,15,1.27,,6,March,Prosecco,144,86,Chile,FALSE
+6122068,10007,00:00.0,211,Orange,Smith Farm,Navel,11,0.89,,7,March,Prosecco,6,40,Australia,TRUE
+6122068,10007,00:00.0,311,Banana,Wilson Farm,Burro,8,1.07,,8,March,Espumante,6,45,South Africa,FALSE
+6122068,10007,00:00.0,112,Apple,Smith Farm,McIntosh apple,2,0.89,,9,April,Chardonnay,144,57,Chile,FALSE
+6122068,10007,00:00.0,312,Banana,Lawson Farm,Cavendish,9,1.27,,10,April,Prosecco,72,52,California,FALSE
+6122073,10008,00:00.0,211,Orange,Smith Farm,Navel,3,0.89,,11,May,Champagne,72,85,France,FALSE
+6122073,10008,00:00.0,212,Orange,Jones Farm,Valencia,4,0.78,,12,May,Prosecco,72,83,Australia,FALSE
+6122080,10009,00:00.0,111,Apple,Jones Farm,Red Delicious,7,0.69,,13,May,Merlot,6,43,Chile,FALSE
+6122080,10009,00:00.0,112,Apple,Smith Farm,McIntosh apple,16,0.89,,14,June,Merlot,72,64,Chile,FALSE
+6122087,10010,00:00.0,312,Banana,Lawson Farm,Cavendish,2,1.27,,15,June,Cabernet Sauvignon,144,19,Italy,FALSE
+6122087,10010,00:00.0,311,Banana,Wilson Farm,Burro,8,1.07,,16,June,Merlot,72,88,California,FALSE
+6122098,10011,00:00.0,111,Apple,Jones Farm,Red Delicious,4,0.69,,17,July,Pinot Noir,12,47,Germany,FALSE
+6122098,10011,00:00.0,211,Orange,Smith Farm,Navel,7,0.89,,18,July,Espumante,6,50,Oregon,FALSE
+6122098,10011,00:00.0,311,Banana,Wilson Farm,Burro,3,1.07,,19,July,Champagne,12,66,Germany,FALSE
+6122045,10005,00:00.0,111,Apple,Jones Farm,Red Delicious,14,0.69,,20,August,Cabernet Sauvignon,72,82,Italy,FALSE
+6122045,10005,00:00.0,211,Orange,Smith Farm,Navel,4,0.89,,21,August,Champagne,12,50,California,FALSE
+6122045,10005,00:00.0,311,Banana,Wilson Farm,Burro,9,1.07,,22,August,Champagne,72,63,France,FALSE
+6122045,10005,00:00.0,112,Apple,Smith Farm,McIntosh apple,5,0.89,,23,September,Chardonnay,144,39,South Africa,FALSE
+6122057,10006,00:00.0,112,Apple,Smith Farm,McIntosh apple,8,0.89,,24,September,Pinot Noir,6,34,Italy,FALSE
+6122057,10006,00:00.0,212,Orange,Jones Farm,Valencia,6,0.78,,25,October,Cabernet Sauvignon,72,59,Oregon,TRUE
+6122057,10006,00:00.0,312,Banana,Lawson Farm,Cavendish,15,1.27,,26,October,Pinot Noir,144,83,Australia,FALSE
+6122068,10007,00:00.0,211,Orange,Smith Farm,Navel,11,0.89,,27,October,Champagne,72,88,New Zealand,FALSE
+6122068,10007,00:00.0,311,Banana,Wilson Farm,Burro,8,1.07,,28,November,Cabernet Sauvignon,12,56,France,TRUE
+6122068,10007,00:00.0,112,Apple,Smith Farm,McIntosh apple,2,0.89,,29,November,Pinot Grigio,6,87,France,FALSE
+6122068,10007,00:00.0,312,Banana,Lawson Farm,Cavendish,9,1.27,,30,December,Malbec,6,54,France,FALSE
+6122073,10008,00:00.0,211,Orange,Smith Farm,Navel,3,0.89,,31,December,Champagne,72,89,France,FALSE
+6122073,10008,00:00.0,212,Orange,Jones Farm,Valencia,4,0.78,,32,December,Cabernet Sauvignon,72,45,Germany,TRUE
+6122080,10009,00:00.0,111,Apple,Jones Farm,Red Delicious,7,0.69,,2,January,Pinot Noir,72,17,France,FALSE
+6122080,10009,00:00.0,112,Apple,Smith Farm,McIntosh apple,16,0.89,,3,February,Espumante,144,32,Oregon,TRUE
+6122087,10010,00:00.0,312,Banana,Lawson Farm,Cavendish,2,1.27,,4,February,Champagne,72,48,France,TRUE
+6122087,10010,00:00.0,311,Banana,Wilson Farm,Burro,8,1.07,,5,February,Cabernet Sauvignon,144,44,New Zealand,TRUE
+6122098,10011,00:00.0,111,Apple,Jones Farm,Red Delicious,4,0.69,,6,March,Prosecco,144,86,Chile,FALSE
+6122098,10011,00:00.0,211,Orange,Smith Farm,Navel,7,0.89,,7,March,Prosecco,6,40,Australia,TRUE
+6122098,10011,00:00.0,311,Banana,Wilson Farm,Burro,3,1.07,,8,March,Espumante,6,45,South Africa,FALSE
+6122101,10012,00:00.0,112,Apple,Smith Farm,McIntosh apple,4,0.89,,9,April,Chardonnay,144,57,Chile,FALSE
+6122101,10012,00:00.0,312,Banana,Lawson Farm,Cavendish,4,1.27,,18,July,Espumante,6,50,Oregon,FALSE
+6122101,10012,00:00.0,111,Apple,Jones Farm,Red Delicious,2,0.69,,19,July,Champagne,12,66,Germany,FALSE
+6122108,10013,00:00.0,212,Orange,Jones Farm,Valencia,2,0.78,,20,August,Cabernet Sauvignon,72,82,Italy,FALSE
+6122108,10013,00:00.0,312,Banana,Lawson Farm,Cavendish,8,1.27,,21,August,Champagne,12,50,California,FALSE
+6122117,10014,00:00.0,112,Apple,Smith Farm,McIntosh apple,3,0.89,,22,August,Champagne,72,63,France,FALSE
+6122126,10015,00:00.0,312,Banana,Lawson Farm,Cavendish,8,1.27,,23,September,Chardonnay,144,39,South Africa,FALSE
+6122087,10016,00:00.0,311,Banana,Wilson Farm,Burro,3,1.07,,24,September,Pinot Noir,6,34,Italy,FALSE
+6122134,10017,00:00.0,112,Apple,Smith Farm,McIntosh apple,4,-0.89,-3.56,25,October,Cabernet Sauvignon,72,59,Oregon,TRUE
+6122134,10017,00:00.0,212,Orange,Jones Farm,Valencia,2,-0.78,-1.56,26,October,Pinot Noir,144,83,Australia,FALSE
+6122155,10018,00:00.0,211,Orange,Smith Farm,Navel,1,-0.89,-0.89,27,October,Champagne,72,88,New Zealand,FALSE
+6122155,10018,00:00.0,212,Orange,Jones Farm,Valencia,2,-0.78,-1.56,28,November,Cabernet Sauvignon,12,56,France,TRUE
+6122155,10018,00:00.0,312,Banana,Lawson Farm,Cavendish,4,-1.27,-5.08,14,June,Merlot,72,64,Chile,FALSE
+6122155,10018,00:00.0,311,Banana,Wilson Farm,Burro,8,-1.07,-8.56,15,June,Cabernet Sauvignon,144,19,Italy,FALSE
+6122165,10019,00:00.0,211,Orange,Smith Farm,Navel,3,-0.89,-2.67,16,June,Merlot,72,88,California,FALSE
+6122165,10019,00:00.0,311,Banana,Wilson Farm,Burro,2,-1.07,-2.14,17,July,Pinot Noir,12,47,Germany,FALSE
+6122165,10019,00:00.0,112,Apple,Smith Farm,McIntosh apple,7,-0.89,-6.23,18,July,Espumante,6,50,Oregon,FALSE
+6122170,10020,00:00.0,312,Banana,Lawson Farm,Cavendish,1,-1.27,-1.27,19,July,Champagne,12,66,Germany,FALSE
+6122144,10021,00:00.0,312,Banana,Lawson Farm,Cavendish,11,-1.27,-13.97,20,August,Cabernet Sauvignon,72,82,Italy,FALSE
+6122144,10021,00:00.0,111,Apple,Jones Farm,Red Delicious,2,-0.69,-1.38,21,August,Champagne,12,50,California,FALSE
+6122144,10022,00:00.0,112,Apple,Smith Farm,McIntosh apple,2,-0.89,-1.78,22,August,Champagne,72,63,France,FALSE
+6122193,10023,00:00.0,311,Banana,Wilson Farm,Burro,3,-1.07,-3.21,23,September,Chardonnay,144,39,South Africa,FALSE
+6122193,10023,00:00.0,112,Apple,Smith Farm,McIntosh apple,4,-0.89,-3.56,24,September,Pinot Noir,6,34,Italy,FALSE
+6122193,10023,00:00.0,312,Banana,Lawson Farm,Cavendish,4,-1.27,-5.08,25,October,Cabernet Sauvignon,72,59,Oregon,TRUE
+6122211,10024,00:00.0,311,Banana,Wilson Farm,Burro,1,-1.07,-1.07,26,October,Pinot Noir,144,83,Australia,FALSE
+6122211,10024,00:00.0,112,Apple,Smith Farm,McIntosh apple,1,-0.89,-0.89,27,October,Champagne,72,88,New Zealand,FALSE
+6122165,10019,00:00.0,112,Apple,Smith Farm,McIntosh apple,7,-0.89,-6.23,28,November,Cabernet Sauvignon,12,56,France,TRUE
+6122170,10020,00:00.0,312,Banana,Lawson Farm,Cavendish,1,-1.27,-1.27,29,November,Pinot Grigio,6,87,France,FALSE
+6122144,10021,00:00.0,312,Banana,Lawson Farm,Cavendish,11,-1.27,-13.97,30,December,Malbec,6,54,France,FALSE
+6122144,10021,00:00.0,111,Apple,Jones Farm,Red Delicious,2,-0.69,-1.38,31,December,Champagne,72,89,France,FALSE
+6122144,10022,00:00.0,112,Apple,Smith Farm,McIntosh apple,2,-0.89,-1.78,32,December,Cabernet Sauvignon,72,45,Germany,TRUE
+6122026,10004,00:00.0,212,Orange,Jones Farm,Valencia,2,0.78,,2,January,Pinot Noir,72,17,France,FALSE
+6122026,10004,00:00.0,312,Banana,Lawson Farm,Cavendish,11,1.27,,3,February,Espumante,144,32,Oregon,TRUE
+6122026,10004,00:00.0,111,Apple,Jones Farm,Red Delicious,2,0.69,,4,February,Champagne,72,48,France,TRUE
+6122045,10005,00:00.0,212,Orange,Jones Farm,Valencia,12,0.78,,5,February,Cabernet Sauvignon,144,44,New Zealand,TRUE
+6122045,10005,00:00.0,312,Banana,Lawson Farm,Cavendish,3,1.27,,6,March,Prosecco,144,86,Chile,FALSE
+6122045,10005,00:00.0,111,Apple,Jones Farm,Red Delicious,14,0.69,,7,March,Prosecco,6,40,Australia,TRUE
+6122045,10005,00:00.0,211,Orange,Smith Farm,Navel,4,0.89,,24,September,Pinot Noir,6,34,Italy,FALSE
+6122045,10005,00:00.0,311,Banana,Wilson Farm,Burro,9,1.07,,25,October,Cabernet Sauvignon,72,59,Oregon,TRUE
+6122045,10005,00:00.0,112,Apple,Smith Farm,McIntosh apple,5,0.89,,26,October,Pinot Noir,144,83,Australia,FALSE
+6122057,10006,00:00.0,112,Apple,Smith Farm,McIntosh apple,8,0.89,,27,October,Champagne,72,88,New Zealand,FALSE
+6122057,10006,00:00.0,212,Orange,Jones Farm,Valencia,6,0.78,,28,November,Cabernet Sauvignon,12,56,France,TRUE
+6122057,10006,00:00.0,312,Banana,Lawson Farm,Cavendish,15,1.27,,20,August,Cabernet Sauvignon,72,82,Italy,FALSE
+6122068,10007,00:00.0,211,Orange,Smith Farm,Navel,11,0.89,,21,August,Champagne,12,50,California,FALSE
+6122068,10007,00:00.0,311,Banana,Wilson Farm,Burro,8,1.07,,22,August,Champagne,72,63,France,FALSE
+6122068,10007,00:00.0,112,Apple,Smith Farm,McIntosh apple,2,0.89,,23,September,Chardonnay,144,39,South Africa,FALSE
+6122068,10007,00:00.0,312,Banana,Lawson Farm,Cavendish,9,1.27,,24,September,Pinot Noir,6,34,Italy,FALSE
+6122073,10008,00:00.0,211,Orange,Smith Farm,Navel,3,0.89,,25,October,Cabernet Sauvignon,72,59,Oregon,TRUE
+6122073,10008,00:00.0,212,Orange,Jones Farm,Valencia,4,0.78,,22,August,Champagne,72,63,France,FALSE
+6122080,10009,00:00.0,111,Apple,Jones Farm,Red Delicious,7,0.69,,23,September,Chardonnay,144,39,South Africa,FALSE
+6122080,10009,00:00.0,112,Apple,Smith Farm,McIntosh apple,16,0.89,,24,September,Pinot Noir,6,34,Italy,FALSE
+6122087,10010,00:00.0,312,Banana,Lawson Farm,Cavendish,2,1.27,,25,October,Cabernet Sauvignon,72,59,Oregon,TRUE
+6122087,10010,00:00.0,311,Banana,Wilson Farm,Burro,8,1.07,,26,October,Pinot Noir,144,83,Australia,FALSE
+6122098,10011,00:00.0,111,Apple,Jones Farm,Red Delicious,4,0.69,,27,October,Champagne,72,88,New Zealand,FALSE
+6122098,10011,00:00.0,211,Orange,Smith Farm,Navel,7,0.89,,28,November,Cabernet Sauvignon,12,56,France,TRUE
+6122098,10011,00:00.0,311,Banana,Wilson Farm,Burro,3,1.07,,29,November,Pinot Grigio,6,87,France,FALSE
+6122045,10005,00:00.0,111,Apple,Jones Farm,Red Delicious,14,0.69,,30,December,Malbec,6,54,France,FALSE
+6122045,10005,00:00.0,211,Orange,Smith Farm,Navel,4,0.89,,31,December,Champagne,72,89,France,FALSE
+6122045,10005,00:00.0,311,Banana,Wilson Farm,Burro,9,1.07,,32,December,Cabernet Sauvignon,72,45,Germany,TRUE
+6122045,10005,00:00.0,112,Apple,Smith Farm,McIntosh apple,5,0.89,,2,January,Pinot Noir,72,17,France,FALSE
+6122057,10006,00:00.0,112,Apple,Smith Farm,McIntosh apple,8,0.89,,3,February,Espumante,144,32,Oregon,TRUE
+6122068,10007,00:00.0,211,Orange,Smith Farm,Navel,11,0.89,,4,February,Champagne,72,48,France,TRUE
+6122068,10007,00:00.0,311,Banana,Wilson Farm,Burro,8,1.07,,5,February,Cabernet Sauvignon,144,44,New Zealand,TRUE
+6122068,10007,00:00.0,112,Apple,Smith Farm,McIntosh apple,2,0.89,,6,March,Prosecco,144,86,Chile,FALSE
+6122068,10007,00:00.0,312,Banana,Lawson Farm,Cavendish,9,1.27,,7,March,Prosecco,6,40,Australia,TRUE
+6122073,10008,00:00.0,211,Orange,Smith Farm,Navel,3,0.89,,24,September,Pinot Noir,6,34,Italy,FALSE
+6122073,10008,00:00.0,212,Orange,Jones Farm,Valencia,4,0.78,,25,October,Cabernet Sauvignon,72,59,Oregon,TRUE
+6122080,10009,00:00.0,111,Apple,Jones Farm,Red Delicious,7,0.69,,26,October,Pinot Noir,144,83,Australia,FALSE
+6122080,10009,00:00.0,112,Apple,Smith Farm,McIntosh apple,16,0.89,,27,October,Champagne,72,88,New Zealand,FALSE
+6122087,10010,00:00.0,312,Banana,Lawson Farm,Cavendish,2,1.27,,32,December,Cabernet Sauvignon,72,45,Germany,TRUE
+6122087,10010,00:00.0,311,Banana,Wilson Farm,Burro,8,1.07,,2,January,Pinot Noir,72,17,France,FALSE
+6122098,10011,00:00.0,111,Apple,Jones Farm,Red Delicious,4,0.69,,3,February,Espumante,144,32,Oregon,TRUE
+6122098,10011,00:00.0,211,Orange,Smith Farm,Navel,7,0.89,,4,February,Champagne,72,48,France,TRUE
+6122098,10011,00:00.0,311,Banana,Wilson Farm,Burro,3,1.07,,5,February,Cabernet Sauvignon,144,44,New Zealand,TRUE
+6122045,10005,00:00.0,111,Apple,Jones Farm,Red Delicious,14,0.69,,6,March,Prosecco,144,86,Chile,FALSE
+6122045,10005,00:00.0,211,Orange,Smith Farm,Navel,4,0.89,,7,March,Prosecco,6,40,Australia,TRUE
+6122045,10005,00:00.0,311,Banana,Wilson Farm,Burro,9,1.07,,8,March,Espumante,6,45,South Africa,FALSE
+6122045,10005,00:00.0,112,Apple,Smith Farm,McIntosh apple,5,0.89,,9,April,Chardonnay,144,57,Chile,FALSE
+6122057,10006,00:00.0,112,Apple,Smith Farm,McIntosh apple,8,0.89,,18,July,Espumante,6,50,Oregon,FALSE
+6122010,10002,00:00.0,212,Orange,Jones Farm,Valencia,7,0.78,,19,July,Champagne,12,66,Germany,FALSE
+6122010,10002,00:00.0,312,Banana,Lawson Farm,Cavendish,6,1.27,,20,August,Cabernet Sauvignon,72,82,Italy,FALSE
+6122020,10003,00:00.0,112,Apple,Smith Farm,McIntosh apple,9,0.89,,21,August,Champagne,12,50,California,FALSE
+6122020,10003,00:00.0,312,Banana,Lawson Farm,Cavendish,4,1.27,,22,August,Champagne,72,63,France,FALSE
+6122020,10003,00:00.0,111,Apple,Jones Farm,Red Delicious,3,0.69,,23,September,Chardonnay,144,39,South Africa,FALSE
+6122026,10004,00:00.0,211,Orange,Smith Farm,Navel,10,0.89,,24,September,Pinot Noir,6,34,Italy,FALSE
+6122026,10004,00:00.0,212,Orange,Jones Farm,Valencia,2,0.78,,25,October,Cabernet Sauvignon,72,59,Oregon,TRUE
+6122026,10004,00:00.0,312,Banana,Lawson Farm,Cavendish,11,1.27,,26,October,Pinot Noir,144,83,Australia,FALSE
+6122026,10004,00:00.0,111,Apple,Jones Farm,Red Delicious,2,0.69,,27,October,Champagne,72,88,New Zealand,FALSE
+6122045,10005,00:00.0,212,Orange,Jones Farm,Valencia,12,0.78,,28,November,Cabernet Sauvignon,12,56,France,TRUE
+6122045,10005,00:00.0,312,Banana,Lawson Farm,Cavendish,3,1.27,,14,June,Merlot,72,64,Chile,FALSE
+6122045,10005,00:00.0,111,Apple,Jones Farm,Red Delicious,14,0.69,,15,June,Cabernet Sauvignon,144,19,Italy,FALSE
+6122045,10005,00:00.0,211,Orange,Smith Farm,Navel,4,0.89,,16,June,Merlot,72,88,California,FALSE
+6122045,10005,00:00.0,311,Banana,Wilson Farm,Burro,9,1.07,,17,July,Pinot Noir,12,47,Germany,FALSE
+6122045,10005,00:00.0,112,Apple,Smith Farm,McIntosh apple,5,0.89,,18,July,Espumante,6,50,Oregon,FALSE
+6122057,10006,00:00.0,112,Apple,Smith Farm,McIntosh apple,8,0.89,,19,July,Champagne,12,66,Germany,FALSE
+6122057,10006,00:00.0,212,Orange,Jones Farm,Valencia,6,0.78,,20,August,Cabernet Sauvignon,72,82,Italy,FALSE
+6122057,10006,00:00.0,312,Banana,Lawson Farm,Cavendish,15,1.27,,21,August,Champagne,12,50,California,FALSE
+6122068,10007,00:00.0,211,Orange,Smith Farm,Navel,11,0.89,,22,August,Champagne,72,63,France,FALSE
+6122068,10007,00:00.0,311,Banana,Wilson Farm,Burro,8,1.07,,23,September,Chardonnay,144,39,South Africa,FALSE
+6122068,10007,00:00.0,112,Apple,Smith Farm,McIntosh apple,2,0.89,,24,September,Pinot Noir,6,34,Italy,FALSE
+6122068,10007,00:00.0,312,Banana,Lawson Farm,Cavendish,9,1.27,,25,October,Cabernet Sauvignon,72,59,Oregon,TRUE
+6122073,10008,00:00.0,211,Orange,Smith Farm,Navel,3,0.89,,26,October,Pinot Noir,144,83,Australia,FALSE
+6122073,10008,00:00.0,212,Orange,Jones Farm,Valencia,4,0.78,,2,January,Pinot Noir,72,17,France,FALSE
+6122080,10009,00:00.0,111,Apple,Jones Farm,Red Delicious,7,0.69,,3,February,Espumante,144,32,Oregon,TRUE
+6122080,10009,00:00.0,112,Apple,Smith Farm,McIntosh apple,16,0.89,,4,February,Champagne,72,48,France,TRUE
+6122087,10010,00:00.0,312,Banana,Lawson Farm,Cavendish,2,1.27,,5,February,Cabernet Sauvignon,144,44,New Zealand,TRUE
+6122087,10010,00:00.0,311,Banana,Wilson Farm,Burro,8,1.07,,6,March,Prosecco,144,86,Chile,FALSE
+6122098,10011,00:00.0,111,Apple,Jones Farm,Red Delicious,4,0.69,,7,March,Prosecco,6,40,Australia,TRUE
+6122098,10011,00:00.0,211,Orange,Smith Farm,Navel,7,0.89,,24,September,Pinot Noir,6,34,Italy,FALSE
+6122098,10011,00:00.0,311,Banana,Wilson Farm,Burro,3,1.07,,3,February,Espumante,144,32,Oregon,TRUE
+6122101,10012,00:00.0,112,Apple,Smith Farm,McIntosh apple,4,0.89,,21,August,Champagne,12,50,California,FALSE
